@@ -8,5 +8,5 @@ Aberto para atividades do bootcamp ***AVANADE 2021/22***. Desafio de projeto sob
 ### Links Úteis
 [Markdown - Comando Básicos](https://www.markdownguide.org/basic-syntax/)
 [Comandos Básicos Git | Git Hub](https://docs.google.com/document/d/1hvNN5ojL5hKMCLxVFHOX4WwJWhsoRZuCZ_2llycDHyI/edit?usp=sharing)
-
+[Download Visual Studio Windows](https://visualstudio.microsoft.com/pt-br/downloads/)
 
