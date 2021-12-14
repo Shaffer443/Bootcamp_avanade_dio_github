@@ -1,5 +1,5 @@
 # Projeto sobre Git/GitHub da _Dio|Avanade_.
-Repositório criado para os desafios do projeto/bootcamo do programa de estágio 2021/22.
+Repositório criado para os desafios do projeto/bootcamp do programa de estágio 2021/22.
 
 Links úteis, arquivos, códigos, anotações, serão os principais dados que estará incluso neste repositório. 
 
