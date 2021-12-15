@@ -1,0 +1,14 @@
+C:\Users\shaff\source\repos\bootcamp_DioAvanade\aula01_bootcamp\bin\Debug\netcoreapp3.1\aula01_bootcamp.exe
+C:\Users\shaff\source\repos\bootcamp_DioAvanade\aula01_bootcamp\bin\Debug\netcoreapp3.1\aula01_bootcamp.deps.json
+C:\Users\shaff\source\repos\bootcamp_DioAvanade\aula01_bootcamp\bin\Debug\netcoreapp3.1\aula01_bootcamp.runtimeconfig.json
+C:\Users\shaff\source\repos\bootcamp_DioAvanade\aula01_bootcamp\bin\Debug\netcoreapp3.1\aula01_bootcamp.runtimeconfig.dev.json
+C:\Users\shaff\source\repos\bootcamp_DioAvanade\aula01_bootcamp\bin\Debug\netcoreapp3.1\aula01_bootcamp.dll
+C:\Users\shaff\source\repos\bootcamp_DioAvanade\aula01_bootcamp\bin\Debug\netcoreapp3.1\aula01_bootcamp.pdb
+C:\Users\shaff\source\repos\bootcamp_DioAvanade\aula01_bootcamp\obj\Debug\netcoreapp3.1\aula01_bootcamp.csproj.AssemblyReference.cache
+C:\Users\shaff\source\repos\bootcamp_DioAvanade\aula01_bootcamp\obj\Debug\netcoreapp3.1\aula01_bootcamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaff\source\repos\bootcamp_DioAvanade\aula01_bootcamp\obj\Debug\netcoreapp3.1\aula01_bootcamp.AssemblyInfoInputs.cache
+C:\Users\shaff\source\repos\bootcamp_DioAvanade\aula01_bootcamp\obj\Debug\netcoreapp3.1\aula01_bootcamp.AssemblyInfo.cs
+C:\Users\shaff\source\repos\bootcamp_DioAvanade\aula01_bootcamp\obj\Debug\netcoreapp3.1\aula01_bootcamp.csproj.CoreCompileInputs.cache
+C:\Users\shaff\source\repos\bootcamp_DioAvanade\aula01_bootcamp\obj\Debug\netcoreapp3.1\aula01_bootcamp.dll
+C:\Users\shaff\source\repos\bootcamp_DioAvanade\aula01_bootcamp\obj\Debug\netcoreapp3.1\aula01_bootcamp.pdb
+C:\Users\shaff\source\repos\bootcamp_DioAvanade\aula01_bootcamp\obj\Debug\netcoreapp3.1\aula01_bootcamp.genruntimeconfig.cache
